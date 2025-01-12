@@ -1,0 +1,29 @@
+{
+    "data": {
+        "force_update": "0",
+        "version_code": "1",
+        "is_update": "0",
+        "link_apk": "",
+        "base_url": "",
+        "apk_name": "",
+        "force_update_ios": "0",
+        "version_ios": "1.0",
+        "is_update_ios": "0",
+        "link_ipa": "",
+        "link_image": "",
+        "link_main": "",
+        "link_backup": "u/MEjPWZTUlkkeWTHIZxvW1OIw6SYwA0SXnFd0fpuwpdmKmQ58fKpQCcN/N1BH2cqYI7wxoy31uONtTIrm1WWmIcZYGdf3b3X1AQ+bdQNL4QwAArELhDppd/slHn5qnR3PBg8eU0zgbutvFhf6X1igDR92DOAb+v82gMP+/BVn2nqmqWhmcIT4LOVd9XfDEgXGJAGPT+5JLQGs42Ykdy7bRG8nuGXlG+LE7VKh1oHFlZy4WuZb/6d97IqdkuSO6yqZ5bjdYaVVtIAWimjg/GKZAy793VM8PqoxkWhmqWt5gitHIq8T6deQSnAkUHfF2HIPsovzcDlXb97+YK9cgIx0Edaxv2GUYotBVUKxLqcO5JdIFK52SbUht2YCcihG6eZLNi54A5xtdE84+WKKjNZr9eCSSkr5NGPsE8PgbYusZ4tn61Stu3VJr454lrSwG6RFsaIUD0rwp0pfl7OPASmEYVXfTDWebOp/kjrj1k96eg2OZ5uR94xgUcRA4qwvj1ofEdAk/5e5lWjsEakQm+tUWFXBWSvbohhgtXZJEvK6FBA0DNRwFaP+7/c3YOOGBZxjvqSVULIwc1YW1izK2RuHet+S2AjCGD3lQ5kYQb9m7glzDuvHz+icRFTr0PiT6Wr+45r0mh4wBG6eKU8OH99kYBNzXC0XNUfCLaPc7xl7s=",
+        "link_backup_ios": "u/MEjPWZTUlkkeWTHIZxvW1OIw6SYwA0SXnFd0fpuwpdmKmQ58fKpQCcN/N1BH2cqYI7wxoy31uONtTIrm1WWmIcZYGdf3b3X1AQ+bdQNL4QwAArELhDppd/slHn5qnR3PBg8eU0zgbutvFhf6X1igDR92DOAb+v82gMP+/BVn2nqmqWhmcIT4LOVd9XfDEgXGJAGPT+5JLQGs42Ykdy7bRG8nuGXlG+LE7VKh1oHFlZy4WuZb/6d97IqdkuSO6yqZ5bjdYaVVtIAWimjg/GKZAy793VM8PqoxkWhmqWt5gitHIq8T6deQSnAkUHfF2HIPsovzcDlXb97+YK9cgIx0Edaxv2GUYotBVUKxLqcO5JdIFK52SbUht2YCcihG6eZLNi54A5xtdE84+WKKjNZr9eCSSkr5NGPsE8PgbYusZ4tn61Stu3VJr454lrSwG6RFsaIUD0rwp0pfl7OPASmEYVXfTDWebOp/kjrj1k96eg2OZ5uR94xgUcRA4qwvj1ofEdAk/5e5lWjsEakQm+tUWFXBWSvbohhgtXZJEvK6FBA0DNRwFaP+7/c3YOOGBZxjvqSVULIwc1YW1izK2RuHet+S2AjCGD3lQ5kYQb9m7glzDuvHz+icRFTr0PiT6Wr+45r0mh4wBG6eKU8OH99kYBNzXC0XNUfCLaPc7xl7s=",
+        "link_open_browser": "8AAdI6dfks43UFouCUkfPQ==",
+        "link_open_browser_detail": "8AAdI6dfks43UFouCUkfPQ==",
+        "link_open_tab_agent": "1fd38B6zAh0b5s3BaGxwsA==",
+        "link_open_tab_detail_agent": "1fd38B6zAh0b5s3BaGxwsA==",
+        "link_open_tab_none_agent": "k/BiHhPcglh98VHjNpuPxyx0r6YBeWyTiNy1YwAXVctGmdDt64g5wqR3IzYveE7H",
+        "link_open_tab_detail_none_agent": "k/BiHhPcglh98VHjNpuPxyx0r6YBeWyTiNy1YwAXVctGmdDt64g5wqR3IzYveE7H",
+        "show_view_bottom": "0",
+        "is_use_proxy": "0",
+        "is_change_proxy": "1",
+        "ip_proxy": "bCctLTXKR0bCxULsVlHPGw==",
+        "ip_port": "8oVSpadvM9uwW1npc+3JSw=="
+    }
+}
